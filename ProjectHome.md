@@ -1,0 +1,1 @@
+Android application for logging student records, lessons and more
